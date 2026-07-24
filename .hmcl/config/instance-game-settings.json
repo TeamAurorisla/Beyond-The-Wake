@@ -1,13 +1,3 @@
 {
-  "$schema": "https://schemas.glavo.site/hmcl/instance-game-settings/1.0.0",
-  "parent": "game-settings-preset:6daf91a8-0ce7-5347-9a0d-35f886a85679",
-  "overrideProperties": [
-    "runningDirectory",
-    "notCheckGame",
-    "preLaunchCommand"
-  ],
-  "notCheckGame": false,
-  "allowAutoAgent": false,
-  "commandWrapper": "",
   "preLaunchCommand": "$INST_JAVA -jar packwiz-installer-bootstrap.jar https://teamaurorisla.github.io/BTW-Packwiz/pack.toml"
 }
