@@ -1,4 +1,11 @@
 /*
 
+# Minecraft folders and files
+!config/
+!defaultconfigs/
+!kubejs/
+!options.txt
+
+# other files
 !.gitignore
 !LICENSE
