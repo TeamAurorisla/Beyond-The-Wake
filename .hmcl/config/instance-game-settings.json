@@ -1,7 +1,0 @@
-{
-  "$schema": "https://schemas.glavo.site/hmcl/instance-game-settings/1.0.0",
-  "overrideProperties": [
-    "preLaunchCommand"
-  ],
-  "preLaunchCommand": "$INST_JAVA -jar packwiz-installer-bootstrap.jar https://teamaurorisla.github.io/BTW-Packwiz/pack.toml"
-}
