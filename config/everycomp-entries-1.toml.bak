@@ -1,0 +1,125 @@
+		[types.stone_type.naturalist]
+			shellstone = true
+
+		[types.stone_type.supplementaries]
+			brittlestone = true
+
+		[types.stone_type.darkerdepths]
+			aridrock = true
+			duskrock = true
+			darkslate = true
+			grimestone = true
+
+		[types.stone_type.legendary_monsters]
+			enderstone = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
+
+		[types.wood_type.darkerdepths]
+			petrified = true
+
+		[types.wood_type.goodending]
+			muddy_oak = true
+			cypress = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.ghosts]
+			haunted = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.spawn]
+			date = true
+
+		[types.leaves_type.goodending]
+			cypress = true
+			dense_birch = true
+			dense_dark_oak = true
+
+		[types.leaves_type.ghosts]
+			haunted = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
+
+		[types.lantern.goodending]
+			firefly_lantern = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			couch = true
+			shelf = true
+			nightstand = true
+			table = true
+			chair = true
+			drawer = true
+			cupboard = true
+			pillar_trim = true
+			dining_bench = true
+			side_table = true
+			bench = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.stone_type.handcrafted]
+			corner_trim = true
+			pillar_trim = true
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			polished_cut_stairs = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			polished_cut_wall = true
+			cut_slab = true

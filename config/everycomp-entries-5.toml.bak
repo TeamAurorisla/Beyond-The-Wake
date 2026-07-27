@@ -1,0 +1,28 @@
+		[types.stone_type.naturalist]
+			shellstone = true
+
+		[types.stone_type.supplementaries]
+			brittlestone = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.spawn]
+			date = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true

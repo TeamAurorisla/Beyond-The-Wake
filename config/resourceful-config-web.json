@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "port": 7903,
+  "validator": {
+    "uuids": [],
+    "if": {
+      "password": "1fe524a1-ac43-4030-b652-d51b0fc3ca04",
+      "type": "password"
+    },
+    "type": "if"
+  }
+}
